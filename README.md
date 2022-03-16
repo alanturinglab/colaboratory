@@ -1,2 +1,5 @@
 # Alan Turing Laboratory
-Exmaples in colaboratory with python
+Ejemplos de Python en Colaboratory
+
+Visita:
+https://alanturinglab.github.io/colaboratory/
